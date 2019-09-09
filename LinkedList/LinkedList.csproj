@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\CirkularLinkedList.cs" />
+    <Compile Include="Model\DuplexItem.cs" />
+    <Compile Include="Model\DuplexLinkedList.cs" />
+    <Compile Include="Model\IEnumeretor.cs" />
+    <Compile Include="Model\IEnumeretor1.cs" />
     <Compile Include="Model\Item.cs" />
     <Compile Include="Model\LinkedList.cs" />
     <Compile Include="Program.cs" />
